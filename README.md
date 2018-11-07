@@ -33,3 +33,8 @@ Day | Description
 27  | Testing
 28  | RegEx, Patterns, and Intro to DBs
 29  | Bitwise AND
+
+## Testing the code
+```go
+cat ./Day_X/input/input00.txt | go run ./Day_X/main.go
+```
